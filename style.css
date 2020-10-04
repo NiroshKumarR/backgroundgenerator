@@ -1,0 +1,15 @@
+body{
+    font-family:  monospace, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    color: #132743;
+    letter-spacing: .3rem;
+    background: linear-gradient(to right,
+        red, orange);
+  }
+
+  h2{
+      font-family: monospace;
+      text-transform: lowercase;
+      font-size: 1rem;
+  }
